@@ -1,0 +1,8 @@
+C:\Users\prati\source\repos\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\prati\source\repos\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\prati\source\repos\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\prati\source\repos\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\prati\source\repos\Employee\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+C:\Users\prati\source\repos\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\prati\source\repos\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\prati\source\repos\Employee\Employee\obj\Debug\Employee.pdb
